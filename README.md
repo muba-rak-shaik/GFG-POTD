@@ -29,9 +29,15 @@ Let's solve problems and grow together as Python enthusiasts! Happy coding! 🚀
 
 ---
 **You Can Contact Me:** 
+
 MyPersonalPortfolio: https://shaikportfolio.ccbp.tech/
+
 GeeksForGeeks : https://auth.geeksforgeeks.org/user/mubarakshb5ix
+
 LeetCode : https://leetcode.com/mubarakshaik3955/
+
 HackerRank : https://www.hackerrank.com/profile/mubarakshaik3955
+
 GitHub: https://github.com/muba-rak-shaik
+
 LinkedIn : https://www.linkedin.com/in/mubarak-basha-shaik-255428243/
